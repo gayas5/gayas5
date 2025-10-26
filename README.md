@@ -93,9 +93,9 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saddamhussain-md-681b9824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/g-md-681b9824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gokrithikaiyer4" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kingofcool.8055/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_gayas_546/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krithikaiyeer" height="30" width="40" /></a>
 </p>
 
 ## ✨ Quote I Live By
